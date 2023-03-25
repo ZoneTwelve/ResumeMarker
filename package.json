@@ -1,0 +1,22 @@
+{
+  "name": "resumemarker",
+  "version": "1.0.0",
+  "description": "It's not a maker for making resumes, this is for making traceable content on it.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoneTwelve/ResumeMarker.git"
+  },
+  "author": "ZoneTwelve",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ZoneTwelve/ResumeMarker/issues"
+  },
+  "homepage": "https://github.com/ZoneTwelve/ResumeMarker#readme",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}

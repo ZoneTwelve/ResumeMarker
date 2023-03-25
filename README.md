@@ -1,2 +1,20 @@
 # ResumeMarker
-It's not a maker for making resumes, this is for making traceable content on it.
+
+A faster way to apply multiple water mark into a same pdf.
+
+## Requirement
+- Node.js
+  - [Node-Canvas](https://www.npmjs.com/package/canvas) [GitHub](https://github.com/Automattic/node-canvas)
+- [qpdf](https://qpdf.readthedocs.io/en/stable/installation.html)
+  - Installation:
+    - brew: `brew install qpdf`
+    - APT: `apt-get install qpdf`
+
+## How to run
+
+As a terminal user:
+```bash
+# cp $PATH_OF_RESUME ./Resume.pdf
+cd src
+./process.sh
+```
