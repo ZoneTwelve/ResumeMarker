@@ -18,3 +18,6 @@ As a terminal user:
 cd src
 ./process.sh
 ```
+
+## TODO
+- remove the qpdf, just add the water mark on the original pdf.
