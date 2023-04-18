@@ -1,4 +1,4 @@
-# ResumeMarker
+# ResumeWaterMarker
 
 A faster way to apply multiple water mark into a same pdf.
 
